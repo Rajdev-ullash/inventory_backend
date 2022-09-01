@@ -1,0 +1,440 @@
+<mxfile host="65bd71144e">
+    <diagram id="BZAx4NpjiB1EqWASZVfp" name="Page-1">
+        <mxGraphModel dx="734" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#4D4D4D" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;email&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;firstName&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;lastName&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;mobile&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;password&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;photo&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;createdDate&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=0;" parent="1" vertex="1">
+                    <mxGeometry x="95" y="110" width="130" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Users Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBorderColor=none;spacingTop=2;spacing=5;spacingLeft=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="95" y="80" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="email&lt;br&gt;otp&lt;br&gt;status&lt;br&gt;createdDate" style="rounded=1;whiteSpace=wrap;labelBorderColor=none;fontColor=#FFFFFF;align=center;html=1;arcSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="110" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="OTP DataModel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="80" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Users Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#FFFFFF;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="40" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;Name&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="440" width="135" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;Name&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="440" width="135" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Product Brand Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="400" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Product Category Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="400" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Product Brand Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="360" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Product Category Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="360" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;CategoryID&lt;br&gt;BrandID&lt;br&gt;Name&lt;br&gt;Unit&lt;br&gt;Details&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="317" y="735" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;exitX=1.021;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;entryX=0.399;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="15" target="25" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="350" y="700" as="sourcePoint"/>
+                        <mxPoint x="290" y="850" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="518"/>
+                            <mxPoint x="270" y="850"/>
+                            <mxPoint x="390" y="850"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;entryX=1.025;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;" parent="1" target="16" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="820" as="sourcePoint"/>
+                        <mxPoint x="400" y="650" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="700" y="820"/>
+                            <mxPoint x="700" y="515"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Product list Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="325" y="690" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;Name&lt;br&gt;Address&lt;br&gt;Phone&lt;br&gt;Email&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="1100" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;Name&lt;br&gt;Address&lt;br&gt;Phone&lt;br&gt;Email&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="1100" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Product supplier Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="168" y="1070" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Product customer Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="548" y="1070" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;Name&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="1520" width="135" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Buisness Expense type Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="1480" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;TypeID&lt;br&gt;Name&lt;br&gt;Amount&lt;br&gt;Note&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="1520" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Buisness Expense Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="1480" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.383;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="34" target="36" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="1700" as="sourcePoint"/>
+                        <mxPoint x="480" y="1650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;SupplierID&lt;br&gt;VatTax&lt;br&gt;Discount&lt;br&gt;OtherCost&lt;br&gt;ShippingCost&lt;br&gt;GrandTotal&lt;br&gt;Note&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="1940" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;PurchaseID&lt;br&gt;ProductID&lt;br&gt;Qty&lt;br&gt;UnitCost&lt;br&gt;Total&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="549" y="1940" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Purchase Product Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="546.5" y="1910" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Purchase Summary Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="136.5" y="1910" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1.005;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" parent="1" source="39" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="2000" as="sourcePoint"/>
+                        <mxPoint x="610" y="2020" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="480" y="2020"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;entryX=0.607;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;" parent="1" source="25" target="40" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="1060" as="sourcePoint"/>
+                        <mxPoint x="470" y="1010" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="409" y="1465"/>
+                            <mxPoint x="790" y="1465"/>
+                            <mxPoint x="790" y="2050"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;entryX=0.328;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="30" target="39" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="262" y="1370" as="sourcePoint"/>
+                        <mxPoint x="170" y="1355" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="262" y="1405"/>
+                            <mxPoint x="110" y="1405"/>
+                            <mxPoint x="110" y="2010"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;CustomerID&lt;br&gt;VatTax&lt;br&gt;Discount&lt;br&gt;OtherCost&lt;br&gt;ShippingCost&lt;br&gt;GrandTotal&lt;br&gt;Note&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="2360" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;SellID&lt;br&gt;ProductID&lt;br&gt;Qty&lt;br&gt;UnitCost&lt;br&gt;Total&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="2360" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1.005;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.437;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" target="47" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="333.00499999999994" y="2446.9" as="sourcePoint"/>
+                        <mxPoint x="609.09" y="2430" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;edgeStyle=orthogonalEdgeStyle;entryX=0.328;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="2" target="46" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="270" as="sourcePoint"/>
+                        <mxPoint x="110" y="2430" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="241" y="200"/>
+                            <mxPoint x="241" y="320"/>
+                            <mxPoint x="89" y="320"/>
+                            <mxPoint x="89" y="1360"/>
+                            <mxPoint x="100" y="1360"/>
+                            <mxPoint x="100" y="2430"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=0.591;exitY=1.017;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;strokeColor=#000000;" parent="1" source="25" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="418.5" y="1000" as="sourcePoint"/>
+                        <mxPoint x="670" y="2471.599853515625" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="425" y="990"/>
+                            <mxPoint x="419" y="990"/>
+                            <mxPoint x="419" y="1475"/>
+                            <mxPoint x="820" y="1475"/>
+                            <mxPoint x="820" y="2470"/>
+                            <mxPoint x="670" y="2470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="Sell Product Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="536.5" y="2330" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Sell Summary Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="123" y="2330" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;CustomerID&lt;br&gt;VatTax&lt;br&gt;Discount&lt;br&gt;OtherCost&lt;br&gt;ShippingCost&lt;br&gt;GrandTotal&lt;br&gt;Note&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="2760" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="&lt;font style=&quot;font-size: 12px&quot;&gt;UserEmail&lt;br&gt;ReturnID&lt;br&gt;ProductID&lt;br&gt;Qty&lt;br&gt;UnitCost&lt;br&gt;Total&lt;br&gt;createdDate&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="546.5" y="2760" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1.005;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="325.0049999999999" y="2840" as="sourcePoint"/>
+                        <mxPoint x="630" y="2850" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1.002;exitY=0.664;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.328;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="2" target="53" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="235" y="210" as="sourcePoint"/>
+                        <mxPoint x="120" y="2841.60009765625" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="225" y="240"/>
+                            <mxPoint x="251" y="240"/>
+                            <mxPoint x="251" y="330"/>
+                            <mxPoint x="99" y="330"/>
+                            <mxPoint x="99" y="1370"/>
+                            <mxPoint x="110" y="1370"/>
+                            <mxPoint x="110" y="2820"/>
+                            <mxPoint x="210" y="2820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="Return Summary Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="143" y="2730" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Return Product Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="535.5" y="2730" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;email&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;firstName&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;lastName&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;mobile&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;password&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;photo&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;createdDate&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=0;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="110" width="130" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Users Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBorderColor=none;spacingTop=2;spacing=5;spacingLeft=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="80" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="&lt;font&gt;email&lt;br&gt;otp&lt;br&gt;status&lt;br&gt;createdDate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;labelBorderColor=none;fontColor=#FFFFFF;align=center;html=1;arcSize=24;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="110" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="OTP DataModel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="495" y="80" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Users Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#FFFFFF;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="40" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;Name&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="440" width="135" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;Name&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="440" width="135" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="Product Brand Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="400" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Product Category Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="400" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Product Brand Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="360" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="Product Category Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="360" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;CategoryID&lt;br&gt;BrandID&lt;br&gt;Name&lt;br&gt;Unit&lt;br&gt;Details&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="317" y="735" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;exitX=1.021;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;entryX=0.399;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="64" target="70">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="350" y="700" as="sourcePoint"/>
+                        <mxPoint x="290" y="850" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="518"/>
+                            <mxPoint x="270" y="850"/>
+                            <mxPoint x="390" y="850"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="72" value="" style="endArrow=none;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;entryX=1.025;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#FFFFFF;" edge="1" parent="1" target="65">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="820" as="sourcePoint"/>
+                        <mxPoint x="400" y="650" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="700" y="820"/>
+                            <mxPoint x="700" y="515"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="Product list Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="325" y="690" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;Name&lt;br&gt;Address&lt;br&gt;Phone&lt;br&gt;Email&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="1100" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;Name&lt;br&gt;Address&lt;br&gt;Phone&lt;br&gt;Email&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="1100" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="Product supplier Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="168" y="1070" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="Product customer Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="548" y="1070" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;Name&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="135" y="1520" width="135" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="Buisness Expense type Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="1480" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;TypeID&lt;br&gt;Name&lt;br&gt;Amount&lt;br&gt;Note&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="1520" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="Buisness Expense Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="1480" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.383;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="78" target="80">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="1700" as="sourcePoint"/>
+                        <mxPoint x="480" y="1650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;SupplierID&lt;br&gt;VatTax&lt;br&gt;Discount&lt;br&gt;OtherCost&lt;br&gt;ShippingCost&lt;br&gt;GrandTotal&lt;br&gt;Note&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1940" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;PurchaseID&lt;br&gt;ProductID&lt;br&gt;Qty&lt;br&gt;UnitCost&lt;br&gt;Total&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="549" y="1940" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="Purchase Product Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="546.5" y="1910" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="Purchase Summary Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="136.5" y="1910" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1.005;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="83">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="2000" as="sourcePoint"/>
+                        <mxPoint x="610" y="2020" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="480" y="2020"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="88" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;entryX=0.607;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#FFFFFF;" edge="1" parent="1" source="70" target="84">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="1060" as="sourcePoint"/>
+                        <mxPoint x="470" y="1010" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="409" y="1465"/>
+                            <mxPoint x="790" y="1465"/>
+                            <mxPoint x="790" y="2050"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="89" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;entryX=0.328;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="74" target="83">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="262" y="1370" as="sourcePoint"/>
+                        <mxPoint x="170" y="1355" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="262" y="1405"/>
+                            <mxPoint x="110" y="1405"/>
+                            <mxPoint x="110" y="2010"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="90" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;CustomerID&lt;br&gt;VatTax&lt;br&gt;Discount&lt;br&gt;OtherCost&lt;br&gt;ShippingCost&lt;br&gt;GrandTotal&lt;br&gt;Note&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="2360" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;SellID&lt;br&gt;ProductID&lt;br&gt;Qty&lt;br&gt;UnitCost&lt;br&gt;Total&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="2360" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1.005;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.437;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" target="91">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="333.00499999999994" y="2446.9" as="sourcePoint"/>
+                        <mxPoint x="609.09" y="2430" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;edgeStyle=orthogonalEdgeStyle;entryX=0.328;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="59" target="90">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="270" as="sourcePoint"/>
+                        <mxPoint x="110" y="2430" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="241" y="200"/>
+                            <mxPoint x="241" y="320"/>
+                            <mxPoint x="89" y="320"/>
+                            <mxPoint x="89" y="1360"/>
+                            <mxPoint x="100" y="1360"/>
+                            <mxPoint x="100" y="2430"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="94" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=0.591;exitY=1.017;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="70">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="418.5" y="1000" as="sourcePoint"/>
+                        <mxPoint x="670" y="2471.599853515625" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="425" y="990"/>
+                            <mxPoint x="419" y="990"/>
+                            <mxPoint x="419" y="1475"/>
+                            <mxPoint x="820" y="1475"/>
+                            <mxPoint x="820" y="2470"/>
+                            <mxPoint x="670" y="2470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="95" value="Sell Product Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="536.5" y="2330" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="Sell Summary Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="123" y="2330" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;UserEmail&lt;br&gt;CustomerID&lt;br&gt;VatTax&lt;br&gt;Discount&lt;br&gt;OtherCost&lt;br&gt;ShippingCost&lt;br&gt;GrandTotal&lt;br&gt;Note&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="2760" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;&quot;&gt;UserEmail&lt;br&gt;ReturnID&lt;br&gt;ProductID&lt;br&gt;Qty&lt;br&gt;UnitCost&lt;br&gt;Total&lt;br&gt;createdDate&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="546.5" y="2760" width="183" height="255" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;exitX=1.005;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="325.0049999999999" y="2840" as="sourcePoint"/>
+                        <mxPoint x="630" y="2850" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="100" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;fontColor=#FFFFFF;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1.002;exitY=0.664;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.328;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="59" target="97">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="235" y="210" as="sourcePoint"/>
+                        <mxPoint x="120" y="2841.60009765625" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="225" y="240"/>
+                            <mxPoint x="251" y="240"/>
+                            <mxPoint x="251" y="330"/>
+                            <mxPoint x="99" y="330"/>
+                            <mxPoint x="99" y="1370"/>
+                            <mxPoint x="110" y="1370"/>
+                            <mxPoint x="110" y="2820"/>
+                            <mxPoint x="210" y="2820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="Return Summary Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="143" y="2730" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="Return Product Data Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="535.5" y="2730" width="210" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
